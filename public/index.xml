@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parea</title>
+    <link>/</link>
+    <description>Recent content on Parea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Apr 2018 09:53:51 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 13 Apr 2018 09:53:51 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Parea: A Definition Parea translates from Greek to English as &amp;ldquo;company&amp;rdquo; but not in the way you think. Parea has many meanings. In Greek culture, a parea is a group of friends who regularly gather together to share their experiences about life, their philosophies, values, and ideas. In Spanish, parea means to pair up. Our Parea is a community of immense knowledge and expertise that partners with promising projects, teams, and individuals to build great products and make smart investments.</description>
+    </item>
+    
+    <item>
+      <title>Why No One Should Trust the Weiss Cryptocurrency Ratings</title>
+      <link>/essays/why-no-one-should-trust-the-weiss-cryptocurrency-ratings/</link>
+      <pubDate>Wed, 25 Apr 2018 22:51:49 -0400</pubDate>
+      
+      <guid>/essays/why-no-one-should-trust-the-weiss-cryptocurrency-ratings/</guid>
+      <description>Weiss Ratings are on the receiving end of severe crypto community backlash after releasing their Weiss Cryptocurrency Ratings. It’s an ambitious task, for sure, to attempt to rate cryptocurrencies as current conditions make it akin to rating penny stocks — anything can happen. However, it is also a dangerous task. Not for them, of course, but for the consumers, investors, and institutions that will pay for their “research” and use it to inform their investment decisions.</description>
+    </item>
+    
+    <item>
+      <title>Bringing Blockchain Back to the Bare Basics</title>
+      <link>/essays/bringing-blockchain-back-to-the-bare-basics/</link>
+      <pubDate>Wed, 25 Apr 2018 22:32:33 -0400</pubDate>
+      
+      <guid>/essays/bringing-blockchain-back-to-the-bare-basics/</guid>
+      <description>Cause without the underlying technology, this market wouldn’t exist Parea is a collective of technologists, developers, inventors, and investors who write about the crypto market and build upon the blockchain technology. We will post thought essays and discussions about blockchain from the many different perspectives it entails; analyses of the underlying technologies, behavioral economics, market psychology, etc.
+The Current State of the Crypto Market Over the last several months, the crypto market has degenerated into a speculative mania nightmare.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
+      <description>Services Parea primarily works with two types of clients: project teams and investors.
+ For project teams, Parea offers the following services:  Blockchain use case analysis Business strategy analysis and formulation Designing tokenomics and incentive structures Whitepaper analysis, writing, and editing Technical viability analysis and recommendations Competitor reasearch Providing VC &amp;amp; fund perspectives Token pricing and targe raise recommendations  For investors, Parea offers the following services:  Initial screening of investment opportunities Sourcing and scouting Deep drives into specific projects; providing investment recommendations   Reach out to hello@parea.</description>
+    </item>
+    
+  </channel>
+</rss>

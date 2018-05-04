@@ -1,0 +1,28 @@
+baseurl = "/"
+title = "Parea"
+theme = "coder"
+
+[params]
+  author = "Parea"
+	info = "Blockchain and Beyond"
+  description = "Parea is a collective of technologists, developers, inventors, and investors who write about the crypto market and build upon the blockchain technology."
+
+[[params.social]]
+	name = "Medium"
+	weight = 1
+	url = "https://medium.com/pareagroup"
+
+[[params.social]]  
+	name = "Email"
+	weight = 2
+  url = "mailto:hello@parea.io"
+
+[[menu.main]]
+	name = "Essays"
+	weight =  2
+	url = "/essays"
+
+[[menu.main]]
+	name = "Services"
+	weight = 3
+	url = "/services"
