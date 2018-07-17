@@ -1,6 +1,6 @@
 # Services
 
-Parea primarily works with two types of clients: project teams and investors.
+Parea primarily works with project teams.
 
 1. For project teams, Parea offers the following services:
 	- Blockchain use case analysis
@@ -11,10 +11,6 @@ Parea primarily works with two types of clients: project teams and investors.
 	- Competitor reasearch
 	- Providing VC & fund perspectives
 	- Token pricing and targe raise recommendations
-2. For investors, Parea offers the following services:
-	- Initial screening of investment opportunities
-	- Sourcing and scouting
-	- Deep drives into specific projects; providing investment recommendations
 
 Reach out to [hello@parea.io](mailto:hello@parea.io)
 

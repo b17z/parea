@@ -1,6 +1,6 @@
 ---
 title: "Why No One Should Trust the Weiss Cryptocurrency Ratings"
-date: 2018-04-25T22:51:49-04:00
+date: 2018-02-05T22:51:49-04:00
 ---
 
 Weiss Ratings are on the receiving end of severe crypto community backlash after releasing their [Weiss Cryptocurrency Ratings](https://www.docdroid.net/y8xcErJ/weiss-cryptocurrency-ratings.pdf). It’s an ambitious task, for sure, to attempt to rate cryptocurrencies as current conditions make it akin to rating penny stocks — anything can happen. However, it is also a dangerous task. Not for them, of course, but for the consumers, investors, and institutions that will pay for their “research” and use it to inform their investment decisions.

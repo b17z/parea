@@ -1,6 +1,6 @@
 ---
 title: "Bringing Blockchain Back to the Bare Basics"
-date: 2018-04-25T22:32:33-04:00
+date: 2018-01-23T22:32:33-04:00
 ---
 
 ### Cause without the underlying technology, this market wouldn’t exist
