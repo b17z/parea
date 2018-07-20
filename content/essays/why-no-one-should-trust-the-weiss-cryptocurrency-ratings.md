@@ -3,6 +3,8 @@ title: "Why No One Should Trust the Weiss Cryptocurrency Ratings"
 date: 2018-02-05T22:51:49-04:00
 ---
 
+[As published on Medium](https://medium.com/pareagroup/why-no-one-should-trust-the-weiss-cryptocurrency-ratings-285523221510)
+
 Weiss Ratings are on the receiving end of severe crypto community backlash after releasing their [Weiss Cryptocurrency Ratings](https://www.docdroid.net/y8xcErJ/weiss-cryptocurrency-ratings.pdf). It’s an ambitious task, for sure, to attempt to rate cryptocurrencies as current conditions make it akin to rating penny stocks — anything can happen. However, it is also a dangerous task. Not for them, of course, but for the consumers, investors, and institutions that will pay for their “research” and use it to inform their investment decisions.
 
 
@@ -23,7 +25,7 @@ Second, investors place a certain amount of faith in these ratings and diminish 
 
 The credit rating agencies job was to unearth the mortgage issuer’s activities and unmask the machinations of securitizing banks, but they broke trust by doing neither. As a result S&P and Moody’s were sued by federal and state governments, paying fines of $1.4 billion and $864 million, respectively. As investors now flock to cryptoassets, Weiss Ratings is repeating history by providing erroneous ratings of assets and technologies that they do not understand and that can bring significant harm to individuals and institutions relying on them.
 
-# 2. Broken and opaqure "proprietary" methodology
+# 2. Broken and opaque "proprietary" methodology
 Weiss Ratings claim they have a 5 level process to arrive at a letter grade, but after evaluating what little information is provided about their methodology, we found that level 1 is where they collect a bunch of information and levels 2–5 is them pulling formulas out of a hat until the data says what they want it to say. There is very little mention of what this information is, how they source it, how it is validated, or how their “expert” opinions influenced the ranking.
 
 
@@ -43,6 +45,8 @@ Second, these technologies are constantly evolving. [Only 14 employees list Weis
 
 
 Third, in order to create accurate ratings, you have to be able to define success and compare like against like. The first problem is that no one knows what success looks like. Bitcoin is the closest example that we have, but even it is facing lots of challenges and uncertainty as scaling poses a major challenge that we are in the early stages of addressing (i.e., Lightning Network). The second is that these aren’t just assets; they are technologies, and are trying to do different things. Monero isn’t trying to be Ethereum — they have vastly different goals and therefore vastly different definitions of what success looks like. Creating a rating methodology that aims to pit them against each other will ultimately fail as it cannot accurately measure their success in their respective fields.
+
+![education](https://www.dropbox.com/s/v7uut0byztwt85s/Our-Education-System.jpeg?raw=true "Education")
 
 # 3. Disregard for our philosophical underpinning
 “However, decades of experience in the financial marketplace indicate that, once armed with the specific formulas or processes of a ratings model, some rated entities seek to game the system: They try to manipulate data they can influence or control with the goal of achieving an unfair advantage.” - Source: [Weiss Ratings](https://weisscryptocurrencyratings.com/ratings/the-weiss-cryptocurrency-ratings-explained-15)

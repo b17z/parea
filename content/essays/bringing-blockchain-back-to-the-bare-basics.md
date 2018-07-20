@@ -3,6 +3,8 @@ title: "Bringing Blockchain Back to the Bare Basics"
 date: 2018-01-23T22:32:33-04:00
 ---
 
+[As published on Medium](https://medium.com/pareagroup/bringing-back-blockchain-to-the-bare-basics-c8901824967c)
+
 ### Cause without the underlying technology, this market wouldn’t exist
 *Parea is a collective of technologists, developers, inventors, and investors who write about the crypto market and build upon the blockchain technology. We will post thought essays and discussions about blockchain from the many different perspectives it entails; analyses of the underlying technologies, behavioral economics, market psychology, etc.*
 

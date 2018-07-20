@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Parea"
-theme = "coder"
+theme = "parea"
 
 [params]
   author = "Parea"

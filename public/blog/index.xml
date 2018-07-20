@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Parea</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Parea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why No One Should Trust The Weiss Cryptocurrency Ratings</title>
+      <link>/blog/why-no-one-should-trust-the-weiss-cryptocurrency-ratings/</link>
+      <pubDate>Mon, 05 Feb 2018 12:11:29 +0600</pubDate>
+      
+      <guid>/blog/why-no-one-should-trust-the-weiss-cryptocurrency-ratings/</guid>
+      <description>Weiss Ratings are on the receiving end of severe crypto community backlash after releasing their Weiss Cryptocurrency Ratings. It’s an ambitious task, for sure, to attempt to rate cryptocurrencies as current conditions make it akin to rating penny stocks — anything can happen. However, it is also a dangerous task. Not for them, of course, but for the consumers, investors, and institutions that will pay for their “research” and use it to inform their investment decisions.</description>
+    </item>
+    
+    <item>
+      <title>Bringing Blockchain Back to the Bare Basics</title>
+      <link>/blog/bringing-blockchain-back-to-the-bare-basics/</link>
+      <pubDate>Tue, 23 Jan 2018 17:04:41 +0600</pubDate>
+      
+      <guid>/blog/bringing-blockchain-back-to-the-bare-basics/</guid>
+      <description>Cause without the underlying technology, this market wouldn’t exist Parea is a collective of technologists, developers, inventors, and investors who write about the crypto market and build upon the blockchain technology. We will post thought essays and discussions about blockchain from the many different perspectives it entails; analyses of the underlying technologies, behavioral economics, market psychology, etc.
+The Current State of the Crypto Market Over the last several months, the crypto market has degenerated into a speculative mania nightmare.</description>
+    </item>
+    
+  </channel>
+</rss>

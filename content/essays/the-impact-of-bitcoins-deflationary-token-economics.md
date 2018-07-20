@@ -1,0 +1,77 @@
+---
+title: "The impact of Bitcoin’s deflationary token economics on its viability as a global digital currency"
+date: 2018-03-26T22:32:33-04:00
+---
+
+[As published on Medium](https://medium.com/pareagroup/the-impact-of-bitcoins-deflationary-token-economics-on-its-viability-as-a-global-digital-currency-9da3d55142c5)
+
+Bitcoin was created by Satoshi Nakamoto to be a [peer-to-peer electronic cash system](https://bitcoin.org/bitcoin.pdf) which would allow online payments to be sent directly from one party to another without going through a financial institution. It emerged in the middle of the Great Recession; as individuals lost their homes and savings, banks and businesses were going bankrupt, and the government was printing money to stimulate the economy through multiple rounds of Quantitative Easing. It was designed to be an alternative to our current system of what was considered irresponsible government and central bank policies; a way to reimagine the role of money in our society.
+
+The brilliant decentralized blockchain design and incentive structure aligned the interests of miners, users, and developers to keep the system healthy and disincentivize any group from accumulating too much power since an attack or imbalance would hurt all and decrease the value of the network — and in turn, their investment. Although there are still many challenges around scaling, environmental impact, price swings, etc., Bitcoin has been revolutionary and laid the technological groundwork for Satoshi’s vision as a true alternative to FIAT currencies.
+
+However, we currently, tentatively believe that Bitcoin’s deflationary token economics will prevent it from being adopted and used as a global digital currency.
+
+Deflationary economic policies, often associated with the Austrian school of economics and Libertarian school of thought, sound great in theory, but quickly fall apart as you deconstruct them. The biggest gripe about inflation is that our money loses a little bit of purchasing power every year and a deflationary economic policy promises, at first glance, to solve that problem and have your hard earned cash appreciate without any effort on your part. This part is true — money would gain in purchasing power so your savings will be “worth” more over time. However, it is not an accident that the United States has overwhelmingly abandoned deflationary policies, moving off the gold standard in 1933 (during the Great Depression) and completely severing the dollar-gold link in 1971, with the rest of the world following suit at various times. This is because such policies provide perverse economic incentives for growth and investment while simultaneously being disastrous during economic downturns.
+
+What follows is a series of propositions and arguments examining Bitcoin’s deflationary token economics from an economic, user experience, and incentive perspective to determine its viability as a global digital currency.
+
+## Assumptions:
+
+1. For the purposes of this discussion, let’s keep things simple and define money as a unit of measurement that allows us to compare unlike goods and services based on how much we value them (i.e., apples to oranges). As an example, a neighbor might pay you $300 to paint his fence which you then go and use to buy a $300 pair of shoes, meaning you/society associate the same value with painting the fence and that pair of shoes.
+2. We will be discussing inflation and deflation from a monetary unit, not general economic, perspective. For example, U.S. history had multiple periods with inflationary currency during a deflationary economic period (economic downturns).
+3. In traditional FIAT, a deflating economy leads directly to decreased consumption, layoffs, etc. While we think this will also be true in a BTC-denominated economy, we will not make this argument as it has already been made many times by other publications in favor of other, non-traditional reasoning
+4. We will not be commenting on Bitcoin as a store of value, medium of exchange, and unit of account, because there are enough articles written about it and, although relevant to this article, would require a significantly lengthier piece without significant value added
+
+##Line of Reasoning:
+
+1. Inflationary (FIAT) and deflationary (gold & BTC) currencies have different incentive structures and therefore result in different behaviors. Their primary difference is how they treat the past: inflation erodes the value you created while deflation increases that value.
+2. So with inflation, you have to reinvest that value to create more, greater value (by expanding operations, buying better equipment to increase your margin, expanding to other neighborhoods that desperately need your services, etc.). If you do not, your money will last you for a while, but it will have less purchasing power over time. The inflationary incentive structure, put in plain English, is that you have to grow and cannot ride on the coattails of your past successes.
+3. Deflation, on the other hand, continuously rewards you for creating value in the past, regardless of what you are doing in the present. Once you have earned money for creating value, your incentive to continue contributing to the world is significantly diminished because deflation is perpetually sustaining you over time by giving that earned money greater purchasing power.
+4. Debt is arguably one of the greatest human inventions because it allows for the smooth transition of saved up capital to be put to use by another person to create value. The owner of the capital gets a certain rate of return, allowing them to grow their capital, and the borrower is able to keep whatever returns she’s able to create on top of what she must pay back. This doesn’t apply to just complicated financial instruments; the U.S. student debt market is a perfect example of individuals agreeing to use another’s capital to invest in themselves, thereby increasing their value creation / earning potential, on the assumption that this increase will be greater than the rate at which they borrowed capital. The problem with BTC-denominated (deflationary) debt is that the real value (purchasing power) of this debt increases over time as the value of the denominational asset grows. This means that you now need to create a significantly larger amount of value because the burden of debt is that much higher. This is a big problem because it will add an additional burden on individuals and institutions using debt-based financing, the primary driver of innovation and investment.
+5. The other challenge with deflationary asset-based debt is that it causes an increase in real interest rates. Other than a few isolated cases of [Negative Interest Rate Policies](https://www.investopedia.com/terms/n/negative-interest-rate-policy-nirp.asp) (where you literally pay someone to take your money), the usual nominal interest rate does not fall below 0%, which in today’s inflationary world means the lowest real risk free rate rate of return we’ve seen was as low as -2%. The problem with deflation is that if we assume that the interest rate does not generally fall below 0%, then at 2% deflation, the [real risk free rate of return](https://www.investopedia.com/terms/r/risk-freerate.asp) is sitting at 2%. Because this rate is generally used as a benchmark, all real interest rates will tend to be higher even though their nominal values may be lower.
+6. Higher real interest rates are a big problem because most investments in productivity-increasing innovations are marginal. They aren’t going to revolutionize the planet in one go… they make incremental improvements that can, over time,add up to huge leaps. For example, cryptocurrencies were talked about and worked on for more than 20 years before Bitcoin came into existence. A higher real interest rate increases the expected rate of return on investment, meaning that lower-value add or higher risk projects will not merit investment, resulting in a decreased rate of innovation.
+7. Therefore, deflationary currency promotes dynastic wealth by incentivizing hoarding and disincentivizing investment. One of the reasons the U.S. is so successful is because the system disincentivizes dynastic wealth through inflation and inheritance taxes. For better or for worse, the rich and poor are all on a treadmill with the same premise: keep contributing to society if you want to keep up and stay relevant.
+8. [Nominal rigidity](https://en.wikipedia.org/wiki/Nominal_rigidity) describes a situation in which the nominal price, of anything, is resistant to change. This is generally broken down into two components: price stickiness and wage stickiness. Both are important.
+9. Most individuals are happy thinking about the nominal price of their coffee decreasing because they think of it as now becoming cheaper, but the reality is that, just like with inflationary currency, the real price stays largely the same. You don’t suddenly value coffee as a more valuable part of your life for which you are willing to pay a larger percentage of your salary. If the price of coffee went up 20x over the past 100 years, it’s actually likely that the annual salary went up >20x due to efficiencies and supply chain improvements, so coffee is probably cheaper for you than for your ancestors!
+10. Wage stickiness is, we think, the more important point to bring up from a psychological, not economic, perspective. A common economic refrain is that denominating salaries in a deflationary currency will drive unemployment as wages are sticky-down (meaning they rise easy, but fall with great difficulty). The logic then states that this is especially true during economic downturns as currencies tend to appreciate while salaries fall, leading to greater firing as the effect is larger using a deflationary currency. While we agree with this line of reasoning, we want to call special attention to the human aspect of wages — if people often equate money with value, then our wage is a measurement of how much our contributions are valued by society. Our self-worth and ego are on the line and although the real value of the wage may be increasing, that effect is invisible, while a nominally decreasing paycheck is very visible.
+11. Lastly, we want to highlight what happens during economic downturns. Irving Fisher wrote a seminal piece in 1933 called The Debt-Deflation Theory of Great Depressions in which he theorized that over-investment, on its own, is not sufficient to cause an economic downturn until it is combined with debt and deflation. His essay contained 49 articles, of which 29–32 (below) are the most relevant for our purposes, but which are all worth reading.
+
+![Irving](https://www.dropbox.com/s/nc4mcdajr01h45c/Irving-Fisher.png?raw=true "Irving")
+
+This was disastrous during the last deflationary, gold-based currency, and it would be disastrous today if backed by BTC.
+
+## Conclusion:
+
+Given the evidence that we have seen, we believe Bitcoin’s deflationary token economics prevent it from being viable as a global digital currency. We expect one of the following outcomes:
+
+1. Bitcoin will remain deflationary and will solidly become a store of value, serving as the world’s “new gold” while another cryptocurrency serves as the actual currency used as cash and backing for financial instruments
+2. Bitcoin will hard fork to become inflationary, which will cause a precipitous drop in its value and due to lack of faith in the protocol’s inalterability (which we think it would survive if done early enough)
+3. Bitcoin will remain deflationary and serve in some sort of two rails capacity with the existing FIAT system that enables peer-to-peer cross-border payments while maintaining national economic sovereignty
+
+As to the Austrian vs Keynesian debate, our best advice is to meet in the middle. Austrian economic theory has been thoroughly disproven as an effective model for our society, but Keynesian economic theory has its own faults. The Fed [pumped $4 trillion](https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm) into our economy during the recession while former [U.S. President Barack Obama was hours away from printing a $1 trillion coin](http://www.businessinsider.com/obama-mint-trillion-dollar-coin-scariest-night-debt-ceiling-2017-1) to pay our debtors and avoid default. These aren’t bugs of Keynesian economics, they’re features; ones that will eventually collapse. We hope that blockchain will be a new paradigm that can take the best of both models to create a better system for all.
+
+### Sources:
+
+1. https://www.economist.com/blogs/freeexchange/2014/04/money
+2. https://www.wired.com/2013/11/bitcoin-and-deflation/amp
+3. https://www.economicshelp.org/blog/978/economics/definition-of-deflation/
+4. http://www.macrotrends.net/1329/us-dollar-index-historical-chart
+5. https://campus.fsu.edu/bbcswebdav/users/jcalhoun/Courses/Growth_of_American_Economy/Chapter_Supplemental_Readings/Chapter_23/Fisher-The_Debt_Deflation_Theory.pdf
+6. https://en.bitcoin.it/wiki/Deflationary_spiral
+7. https://www.investinblockchain.com/bitcoin-is-a-deflationary-currency/
+8. https://www.economist.com/news/finance-and-economics/21599053-chronic-deflation-may-keep-bitcoin-displacing-its-fiat-rivals-money
+9. https://ftalphaville.ft.com/2015/01/14/2088062/what-is-the-relationship-between-inflation-and-investment/
+
+### Credit
+
+Ben Rodriguez: [Ben@parea.io](mailto:ben@parea.io)
+
+Charles Hwang: [Charles@lightning.capital](mailto:charles@lightning.capital)
+
+Neha Singh: [Neha_singh1@outlook.com](mailto:neha_singh1@outlook.com)
+
+Chase Collum: [collumchase@gmail.com](mailto:collumchase@gmail.com)
+
+## Errata
+
+We are only human and we make mistakes. We will include any types of revisions or lapses in logic when found or brought up to us in a dedicated section at the end of each of our essays. In addition, if you have any suggestions for future essays such as formatting, or topics you’d like to see written about discussed, drop us an email at hello@parea.io or leave a comment.

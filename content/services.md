@@ -14,6 +14,7 @@ Parea primarily works with project teams.
 	- High level project and token review and screening
 	- Deep dives and analyses of  specific projects from tokenonomics and technical standpoints
 
+
 	Please note, Parea does not provide investment advice.
 
 Reach out to [hello@parea.io](mailto:hello@parea.io)
