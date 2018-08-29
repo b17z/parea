@@ -3,7 +3,7 @@ title: "Crypto Staking is More Useful Than You Think"
 date: 2018-06-28T22:32:33-04:00
 ---
 
-[As seen on Token Foundry's Medium](https://medium.com/tokenfoundry/crypto-staking-is-more-useful-than-you-think-8cb3cfe06587)
+[As published on Token Foundry's Medium](https://medium.com/tokenfoundry/crypto-staking-is-more-useful-than-you-think-8cb3cfe06587)
 
 ![Staking](https://www.dropbox.com/s/5mmsfbt3xb737si/Staking.png?raw=true "Staking")
 

@@ -17,4 +17,4 @@ Parea primarily works with project teams.
 
 	Please note, Parea does not provide investment advice.
 
-Reach out to [hello@parea.io](mailto:hello@parea.io)
+Reach out to [ben@parea.io](mailto:ben@parea.io) or [viktor@parea.io](mailto:viktor@parea.io)
